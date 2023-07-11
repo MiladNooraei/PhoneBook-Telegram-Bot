@@ -13,13 +13,13 @@ To run the code, You need to do the following steps:
 ## Description
 
 This bot has following options:
-- /show -> Showing all contacts with all informations recorded
-- /show_people -> Showing first and last name of contacts
-- /add -> Adding a new contact to phonebook
-- /find -> Finding a contact based on last name
-- /remove -> Removing a contact
-- /change -> Changing a contacts informations
-- /save -> Saving all contacts in a text file
-- /delete_all -> Clearing the text file
+- /show             -> Showing all contacts with all informations recorded
+- /show_people      -> Showing first and last name of contacts
+- /add              -> Adding a new contact to phonebook
+- /find             -> Finding a contact based on last name
+- /remove           -> Removing a contact
+- /change           -> Changing a contacts informations
+- /save             -> Saving all contacts in a text file
+- /delete_all       -> Clearing the text file
 - /sort_by_lastname -> Sorting based on lastname
-- /sort_by_job -> Sorting based on job
+- /sort_by_job      -> Sorting based on job
